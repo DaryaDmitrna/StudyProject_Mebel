@@ -1,0 +1,436 @@
+C:\Users\Galina\OneDrive\Документы\MebelCourseWPF\MebelCourseWPF\bin\Debug\MebelCourseWPF.exe.config
+C:\Users\Galina\OneDrive\Документы\MebelCourseWPF\MebelCourseWPF\bin\Debug\MebelCourseWPF.exe
+C:\Users\Galina\OneDrive\Документы\MebelCourseWPF\MebelCourseWPF\bin\Debug\MebelCourseWPF.pdb
+C:\Users\Galina\OneDrive\Документы\MebelCourseWPF\MebelCourseWPF\obj\Debug\MebelCourseWPF.csproj.AssemblyReference.cache
+C:\Users\Galina\OneDrive\Документы\MebelCourseWPF\MebelCourseWPF\obj\Debug\MainWindow.g.cs
+C:\Users\Galina\OneDrive\Документы\MebelCourseWPF\MebelCourseWPF\obj\Debug\App.g.cs
+C:\Users\Galina\OneDrive\Документы\MebelCourseWPF\MebelCourseWPF\obj\Debug\MebelCourseWPF_MarkupCompile.cache
+C:\Users\Galina\OneDrive\Документы\MebelCourseWPF\MebelCourseWPF\obj\Debug\MebelCourseWPF_MarkupCompile.lref
+C:\Users\Galina\OneDrive\Документы\MebelCourseWPF\MebelCourseWPF\obj\Debug\MainWindow.baml
+C:\Users\Galina\OneDrive\Документы\MebelCourseWPF\MebelCourseWPF\obj\Debug\MebelCourseWPF.g.resources
+C:\Users\Galina\OneDrive\Документы\MebelCourseWPF\MebelCourseWPF\obj\Debug\MebelCourseWPF.Properties.Resources.resources
+C:\Users\Galina\OneDrive\Документы\MebelCourseWPF\MebelCourseWPF\obj\Debug\MebelCourseWPF.csproj.GenerateResource.cache
+C:\Users\Galina\OneDrive\Документы\MebelCourseWPF\MebelCourseWPF\obj\Debug\MebelCourseWPF.csproj.CoreCompileInputs.cache
+C:\Users\Galina\OneDrive\Документы\MebelCourseWPF\MebelCourseWPF\obj\Debug\MebelCourseWPF.exe
+C:\Users\Galina\OneDrive\Документы\MebelCourseWPF\MebelCourseWPF\obj\Debug\MebelCourseWPF.pdb
+C:\Users\Galina\OneDrive\Документы\MebelCourseWPF\MebelCourseWPF\obj\Debug\ListWindow.g.cs
+C:\Users\Galina\OneDrive\Документы\MebelCourseWPF\MebelCourseWPF\obj\Debug\ListWindow.baml
+C:\Users\Galina\OneDrive\Документы\MebelCourseWPF\MebelCourseWPF\bin\Debug\EntityFramework.dll
+C:\Users\Galina\OneDrive\Документы\MebelCourseWPF\MebelCourseWPF\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Galina\OneDrive\Документы\MebelCourseWPF\MebelCourseWPF\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Galina\OneDrive\Документы\MebelCourseWPF\MebelCourseWPF\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\Galina\OneDrive\Документы\MebelCourseWPF\MebelCourseWPF\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\Users\Galina\OneDrive\Документы\MebelCourseWPF\MebelCourseWPF\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Galina\OneDrive\Документы\MebelCourseWPF\MebelCourseWPF\bin\Debug\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Galina\OneDrive\Документы\MebelCourseWPF\MebelCourseWPF\bin\Debug\Microsoft.EntityFrameworkCore.dll
+C:\Users\Galina\OneDrive\Документы\MebelCourseWPF\MebelCourseWPF\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Galina\OneDrive\Документы\MebelCourseWPF\MebelCourseWPF\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Galina\OneDrive\Документы\MebelCourseWPF\MebelCourseWPF\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Galina\OneDrive\Документы\MebelCourseWPF\MebelCourseWPF\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Galina\OneDrive\Документы\MebelCourseWPF\MebelCourseWPF\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Galina\OneDrive\Документы\MebelCourseWPF\MebelCourseWPF\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Galina\OneDrive\Документы\MebelCourseWPF\MebelCourseWPF\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\Galina\OneDrive\Документы\MebelCourseWPF\MebelCourseWPF\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Galina\OneDrive\Документы\MebelCourseWPF\MebelCourseWPF\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Galina\OneDrive\Документы\MebelCourseWPF\MebelCourseWPF\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Galina\OneDrive\Документы\MebelCourseWPF\MebelCourseWPF\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\Galina\OneDrive\Документы\MebelCourseWPF\MebelCourseWPF\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\Galina\OneDrive\Документы\MebelCourseWPF\MebelCourseWPF\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\Galina\OneDrive\Документы\MebelCourseWPF\MebelCourseWPF\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\Galina\OneDrive\Документы\MebelCourseWPF\MebelCourseWPF\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Galina\OneDrive\Документы\MebelCourseWPF\MebelCourseWPF\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\Galina\OneDrive\Документы\MebelCourseWPF\MebelCourseWPF\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Galina\OneDrive\Документы\MebelCourseWPF\MebelCourseWPF\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Galina\OneDrive\Документы\MebelCourseWPF\MebelCourseWPF\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Galina\OneDrive\Документы\MebelCourseWPF\MebelCourseWPF\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Galina\OneDrive\Документы\MebelCourseWPF\MebelCourseWPF\bin\Debug\System.Buffers.dll
+C:\Users\Galina\OneDrive\Документы\MebelCourseWPF\MebelCourseWPF\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Galina\OneDrive\Документы\MebelCourseWPF\MebelCourseWPF\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\Galina\OneDrive\Документы\MebelCourseWPF\MebelCourseWPF\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Galina\OneDrive\Документы\MebelCourseWPF\MebelCourseWPF\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Galina\OneDrive\Документы\MebelCourseWPF\MebelCourseWPF\bin\Debug\System.Memory.dll
+C:\Users\Galina\OneDrive\Документы\MebelCourseWPF\MebelCourseWPF\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Galina\OneDrive\Документы\MebelCourseWPF\MebelCourseWPF\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Galina\OneDrive\Документы\MebelCourseWPF\MebelCourseWPF\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Galina\OneDrive\Документы\MebelCourseWPF\MebelCourseWPF\bin\Debug\EntityFramework.xml
+C:\Users\Galina\OneDrive\Документы\MebelCourseWPF\MebelCourseWPF\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Galina\OneDrive\Документы\MebelCourseWPF\MebelCourseWPF\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Galina\OneDrive\Документы\MebelCourseWPF\MebelCourseWPF\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\Galina\OneDrive\Документы\MebelCourseWPF\MebelCourseWPF\bin\Debug\Microsoft.Data.SqlClient.pdb
+C:\Users\Galina\OneDrive\Документы\MebelCourseWPF\MebelCourseWPF\bin\Debug\Microsoft.Data.SqlClient.xml
+C:\Users\Galina\OneDrive\Документы\MebelCourseWPF\MebelCourseWPF\bin\Debug\Microsoft.EntityFrameworkCore.xml
+C:\Users\Galina\OneDrive\Документы\MebelCourseWPF\MebelCourseWPF\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\Galina\OneDrive\Документы\MebelCourseWPF\MebelCourseWPF\bin\Debug\Microsoft.EntityFrameworkCore.Design.xml
+C:\Users\Galina\OneDrive\Документы\MebelCourseWPF\MebelCourseWPF\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+C:\Users\Galina\OneDrive\Документы\MebelCourseWPF\MebelCourseWPF\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.xml
+C:\Users\Galina\OneDrive\Документы\MebelCourseWPF\MebelCourseWPF\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\Galina\OneDrive\Документы\MebelCourseWPF\MebelCourseWPF\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\Galina\OneDrive\Документы\MebelCourseWPF\MebelCourseWPF\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\Galina\OneDrive\Документы\MebelCourseWPF\MebelCourseWPF\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\Galina\OneDrive\Документы\MebelCourseWPF\MebelCourseWPF\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\Galina\OneDrive\Документы\MebelCourseWPF\MebelCourseWPF\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Galina\OneDrive\Документы\MebelCourseWPF\MebelCourseWPF\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Galina\OneDrive\Документы\MebelCourseWPF\MebelCourseWPF\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\Galina\OneDrive\Документы\MebelCourseWPF\MebelCourseWPF\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Galina\OneDrive\Документы\MebelCourseWPF\MebelCourseWPF\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\Galina\OneDrive\Документы\MebelCourseWPF\MebelCourseWPF\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\Galina\OneDrive\Документы\MebelCourseWPF\MebelCourseWPF\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\Galina\OneDrive\Документы\MebelCourseWPF\MebelCourseWPF\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\Galina\OneDrive\Документы\MebelCourseWPF\MebelCourseWPF\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\Galina\OneDrive\Документы\MebelCourseWPF\MebelCourseWPF\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\Users\Galina\OneDrive\Документы\MebelCourseWPF\MebelCourseWPF\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\Galina\OneDrive\Документы\MebelCourseWPF\MebelCourseWPF\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\Galina\OneDrive\Документы\MebelCourseWPF\MebelCourseWPF\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Galina\OneDrive\Документы\MebelCourseWPF\MebelCourseWPF\bin\Debug\System.Buffers.xml
+C:\Users\Galina\OneDrive\Документы\MebelCourseWPF\MebelCourseWPF\bin\Debug\System.Collections.Immutable.xml
+C:\Users\Galina\OneDrive\Документы\MebelCourseWPF\MebelCourseWPF\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Galina\OneDrive\Документы\MebelCourseWPF\MebelCourseWPF\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\Galina\OneDrive\Документы\MebelCourseWPF\MebelCourseWPF\bin\Debug\System.Memory.xml
+C:\Users\Galina\OneDrive\Документы\MebelCourseWPF\MebelCourseWPF\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Galina\OneDrive\Документы\MebelCourseWPF\MebelCourseWPF\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Galina\OneDrive\Документы\MebelCourseWPF\MebelCourseWPF\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Galina\OneDrive\Документы\MebelCourseWPF\MebelCourseWPF\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Galina\OneDrive\Документы\MebelCourseWPF\MebelCourseWPF\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Galina\OneDrive\Документы\MebelCourseWPF\MebelCourseWPF\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Galina\OneDrive\Документы\MebelCourseWPF\MebelCourseWPF\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Galina\OneDrive\Документы\MebelCourseWPF\MebelCourseWPF\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Galina\OneDrive\Документы\MebelCourseWPF\MebelCourseWPF\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Galina\OneDrive\Документы\MebelCourseWPF\MebelCourseWPF\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Galina\OneDrive\Документы\MebelCourseWPF\MebelCourseWPF\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Galina\OneDrive\Документы\MebelCourseWPF\MebelCourseWPF\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Galina\OneDrive\Документы\MebelCourseWPF\MebelCourseWPF\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Galina\OneDrive\Документы\MebelCourseWPF\MebelCourseWPF\obj\Debug\MebelCourseWPF.csproj.CopyComplete
+C:\Users\Galina\OneDrive\Документы\MebelCourseWPF\MebelCourseWPF\obj\Debug\CreateWindow.g.cs
+C:\Users\Galina\OneDrive\Документы\MebelCourseWPF\MebelCourseWPF\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Galina\OneDrive\Документы\MebelCourseWPF\MebelCourseWPF\obj\Debug\CreateWindow.baml
+C:\Users\310-09\Desktop\MebelCourseWPF\MebelCourseWPF\bin\Debug\MebelCourseWPF.exe.config
+C:\Users\310-09\Desktop\MebelCourseWPF\MebelCourseWPF\bin\Debug\MebelCourseWPF.exe
+C:\Users\310-09\Desktop\MebelCourseWPF\MebelCourseWPF\bin\Debug\MebelCourseWPF.pdb
+C:\Users\310-09\Desktop\MebelCourseWPF\MebelCourseWPF\bin\Debug\EntityFramework.dll
+C:\Users\310-09\Desktop\MebelCourseWPF\MebelCourseWPF\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\310-09\Desktop\MebelCourseWPF\MebelCourseWPF\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\310-09\Desktop\MebelCourseWPF\MebelCourseWPF\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\310-09\Desktop\MebelCourseWPF\MebelCourseWPF\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\Users\310-09\Desktop\MebelCourseWPF\MebelCourseWPF\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\310-09\Desktop\MebelCourseWPF\MebelCourseWPF\bin\Debug\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\310-09\Desktop\MebelCourseWPF\MebelCourseWPF\bin\Debug\Microsoft.EntityFrameworkCore.dll
+C:\Users\310-09\Desktop\MebelCourseWPF\MebelCourseWPF\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\310-09\Desktop\MebelCourseWPF\MebelCourseWPF\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\310-09\Desktop\MebelCourseWPF\MebelCourseWPF\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\310-09\Desktop\MebelCourseWPF\MebelCourseWPF\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\310-09\Desktop\MebelCourseWPF\MebelCourseWPF\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\310-09\Desktop\MebelCourseWPF\MebelCourseWPF\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\310-09\Desktop\MebelCourseWPF\MebelCourseWPF\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\310-09\Desktop\MebelCourseWPF\MebelCourseWPF\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\310-09\Desktop\MebelCourseWPF\MebelCourseWPF\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\310-09\Desktop\MebelCourseWPF\MebelCourseWPF\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\310-09\Desktop\MebelCourseWPF\MebelCourseWPF\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\310-09\Desktop\MebelCourseWPF\MebelCourseWPF\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\310-09\Desktop\MebelCourseWPF\MebelCourseWPF\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\310-09\Desktop\MebelCourseWPF\MebelCourseWPF\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\310-09\Desktop\MebelCourseWPF\MebelCourseWPF\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\310-09\Desktop\MebelCourseWPF\MebelCourseWPF\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\310-09\Desktop\MebelCourseWPF\MebelCourseWPF\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Users\310-09\Desktop\MebelCourseWPF\MebelCourseWPF\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\310-09\Desktop\MebelCourseWPF\MebelCourseWPF\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\310-09\Desktop\MebelCourseWPF\MebelCourseWPF\bin\Debug\Newtonsoft.Json.dll
+C:\Users\310-09\Desktop\MebelCourseWPF\MebelCourseWPF\bin\Debug\System.Buffers.dll
+C:\Users\310-09\Desktop\MebelCourseWPF\MebelCourseWPF\bin\Debug\System.Collections.Immutable.dll
+C:\Users\310-09\Desktop\MebelCourseWPF\MebelCourseWPF\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\310-09\Desktop\MebelCourseWPF\MebelCourseWPF\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\310-09\Desktop\MebelCourseWPF\MebelCourseWPF\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\310-09\Desktop\MebelCourseWPF\MebelCourseWPF\bin\Debug\System.Memory.dll
+C:\Users\310-09\Desktop\MebelCourseWPF\MebelCourseWPF\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\310-09\Desktop\MebelCourseWPF\MebelCourseWPF\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\310-09\Desktop\MebelCourseWPF\MebelCourseWPF\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\310-09\Desktop\MebelCourseWPF\MebelCourseWPF\bin\Debug\EntityFramework.xml
+C:\Users\310-09\Desktop\MebelCourseWPF\MebelCourseWPF\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\310-09\Desktop\MebelCourseWPF\MebelCourseWPF\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\310-09\Desktop\MebelCourseWPF\MebelCourseWPF\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\310-09\Desktop\MebelCourseWPF\MebelCourseWPF\bin\Debug\Microsoft.Data.SqlClient.pdb
+C:\Users\310-09\Desktop\MebelCourseWPF\MebelCourseWPF\bin\Debug\Microsoft.Data.SqlClient.xml
+C:\Users\310-09\Desktop\MebelCourseWPF\MebelCourseWPF\bin\Debug\Microsoft.EntityFrameworkCore.xml
+C:\Users\310-09\Desktop\MebelCourseWPF\MebelCourseWPF\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\310-09\Desktop\MebelCourseWPF\MebelCourseWPF\bin\Debug\Microsoft.EntityFrameworkCore.Design.xml
+C:\Users\310-09\Desktop\MebelCourseWPF\MebelCourseWPF\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+C:\Users\310-09\Desktop\MebelCourseWPF\MebelCourseWPF\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.xml
+C:\Users\310-09\Desktop\MebelCourseWPF\MebelCourseWPF\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\310-09\Desktop\MebelCourseWPF\MebelCourseWPF\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\310-09\Desktop\MebelCourseWPF\MebelCourseWPF\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\310-09\Desktop\MebelCourseWPF\MebelCourseWPF\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\310-09\Desktop\MebelCourseWPF\MebelCourseWPF\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\310-09\Desktop\MebelCourseWPF\MebelCourseWPF\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\310-09\Desktop\MebelCourseWPF\MebelCourseWPF\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\310-09\Desktop\MebelCourseWPF\MebelCourseWPF\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\310-09\Desktop\MebelCourseWPF\MebelCourseWPF\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\310-09\Desktop\MebelCourseWPF\MebelCourseWPF\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\310-09\Desktop\MebelCourseWPF\MebelCourseWPF\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\310-09\Desktop\MebelCourseWPF\MebelCourseWPF\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\310-09\Desktop\MebelCourseWPF\MebelCourseWPF\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\310-09\Desktop\MebelCourseWPF\MebelCourseWPF\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\310-09\Desktop\MebelCourseWPF\MebelCourseWPF\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\Users\310-09\Desktop\MebelCourseWPF\MebelCourseWPF\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\310-09\Desktop\MebelCourseWPF\MebelCourseWPF\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\310-09\Desktop\MebelCourseWPF\MebelCourseWPF\bin\Debug\Newtonsoft.Json.xml
+C:\Users\310-09\Desktop\MebelCourseWPF\MebelCourseWPF\bin\Debug\System.Buffers.xml
+C:\Users\310-09\Desktop\MebelCourseWPF\MebelCourseWPF\bin\Debug\System.Collections.Immutable.xml
+C:\Users\310-09\Desktop\MebelCourseWPF\MebelCourseWPF\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\310-09\Desktop\MebelCourseWPF\MebelCourseWPF\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\310-09\Desktop\MebelCourseWPF\MebelCourseWPF\bin\Debug\System.Memory.xml
+C:\Users\310-09\Desktop\MebelCourseWPF\MebelCourseWPF\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\310-09\Desktop\MebelCourseWPF\MebelCourseWPF\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\310-09\Desktop\MebelCourseWPF\MebelCourseWPF\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\310-09\Desktop\MebelCourseWPF\MebelCourseWPF\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\310-09\Desktop\MebelCourseWPF\MebelCourseWPF\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\310-09\Desktop\MebelCourseWPF\MebelCourseWPF\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\310-09\Desktop\MebelCourseWPF\MebelCourseWPF\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\310-09\Desktop\MebelCourseWPF\MebelCourseWPF\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\310-09\Desktop\MebelCourseWPF\MebelCourseWPF\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\310-09\Desktop\MebelCourseWPF\MebelCourseWPF\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\310-09\Desktop\MebelCourseWPF\MebelCourseWPF\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\310-09\Desktop\MebelCourseWPF\MebelCourseWPF\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\310-09\Desktop\MebelCourseWPF\MebelCourseWPF\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\310-09\Desktop\MebelCourseWPF\MebelCourseWPF\obj\Debug\MebelCourseWPF.csproj.AssemblyReference.cache
+C:\Users\310-09\Desktop\MebelCourseWPF\MebelCourseWPF\obj\Debug\MebelCourseWPF.csproj.SuggestedBindingRedirects.cache
+C:\Users\310-09\Desktop\MebelCourseWPF\MebelCourseWPF\obj\Debug\CreateWindow.g.cs
+C:\Users\310-09\Desktop\MebelCourseWPF\MebelCourseWPF\obj\Debug\ListWindow.g.cs
+C:\Users\310-09\Desktop\MebelCourseWPF\MebelCourseWPF\obj\Debug\MainWindow.g.cs
+C:\Users\310-09\Desktop\MebelCourseWPF\MebelCourseWPF\obj\Debug\App.g.cs
+C:\Users\310-09\Desktop\MebelCourseWPF\MebelCourseWPF\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\310-09\Desktop\MebelCourseWPF\MebelCourseWPF\obj\Debug\MebelCourseWPF_MarkupCompile.cache
+C:\Users\310-09\Desktop\MebelCourseWPF\MebelCourseWPF\obj\Debug\MebelCourseWPF_MarkupCompile.lref
+C:\Users\310-09\Desktop\MebelCourseWPF\MebelCourseWPF\obj\Debug\CreateWindow.baml
+C:\Users\310-09\Desktop\MebelCourseWPF\MebelCourseWPF\obj\Debug\ListWindow.baml
+C:\Users\310-09\Desktop\MebelCourseWPF\MebelCourseWPF\obj\Debug\MainWindow.baml
+C:\Users\310-09\Desktop\MebelCourseWPF\MebelCourseWPF\obj\Debug\MebelCourseWPF.g.resources
+C:\Users\310-09\Desktop\MebelCourseWPF\MebelCourseWPF\obj\Debug\MebelCourseWPF.Properties.Resources.resources
+C:\Users\310-09\Desktop\MebelCourseWPF\MebelCourseWPF\obj\Debug\MebelCourseWPF.csproj.GenerateResource.cache
+C:\Users\310-09\Desktop\MebelCourseWPF\MebelCourseWPF\obj\Debug\MebelCourseWPF.csproj.CoreCompileInputs.cache
+C:\Users\310-09\Desktop\MebelCourseWPF\MebelCourseWPF\obj\Debug\MebelCourseWPF.csproj.CopyComplete
+C:\Users\310-09\Desktop\MebelCourseWPF\MebelCourseWPF\obj\Debug\MebelCourseWPF.exe
+C:\Users\310-09\Desktop\MebelCourseWPF\MebelCourseWPF\obj\Debug\MebelCourseWPF.pdb
+C:\Users\Galina\OneDrive\Документы\MebelCourseWPF\MebelCourseWPF\bin\Debug\Aspose.Words.dll
+C:\Users\Galina\OneDrive\Документы\MebelCourseWPF\MebelCourseWPF\bin\Debug\Aspose.Words.Pdf2Word.dll
+C:\Users\Galina\OneDrive\Документы\MebelCourseWPF\MebelCourseWPF\bin\Debug\Aspose.Words.xml
+C:\Users\Galina\OneDrive\Документы\MebelCourseWPF\MebelCourseWPF\obj\Debug\DocumentWindow.g.cs
+C:\Users\Galina\OneDrive\Документы\MebelCourseWPF\MebelCourseWPF\obj\Debug\DocumentWindow.baml
+D:\MebelCourseWPF\MebelCourseWPF\bin\Debug\MebelCourseWPF.exe.config
+D:\MebelCourseWPF\MebelCourseWPF\bin\Debug\MebelCourseWPF.exe
+D:\MebelCourseWPF\MebelCourseWPF\bin\Debug\MebelCourseWPF.pdb
+D:\MebelCourseWPF\MebelCourseWPF\bin\Debug\Aspose.Words.dll
+D:\MebelCourseWPF\MebelCourseWPF\bin\Debug\Aspose.Words.Pdf2Word.dll
+D:\MebelCourseWPF\MebelCourseWPF\bin\Debug\EntityFramework.dll
+D:\MebelCourseWPF\MebelCourseWPF\bin\Debug\EntityFramework.SqlServer.dll
+D:\MebelCourseWPF\MebelCourseWPF\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\MebelCourseWPF\MebelCourseWPF\bin\Debug\Microsoft.Bcl.HashCode.dll
+D:\MebelCourseWPF\MebelCourseWPF\bin\Debug\Microsoft.Data.SqlClient.dll
+D:\MebelCourseWPF\MebelCourseWPF\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\MebelCourseWPF\MebelCourseWPF\bin\Debug\Microsoft.EntityFrameworkCore.Design.dll
+D:\MebelCourseWPF\MebelCourseWPF\bin\Debug\Microsoft.EntityFrameworkCore.dll
+D:\MebelCourseWPF\MebelCourseWPF\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+D:\MebelCourseWPF\MebelCourseWPF\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\MebelCourseWPF\MebelCourseWPF\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+D:\MebelCourseWPF\MebelCourseWPF\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+D:\MebelCourseWPF\MebelCourseWPF\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\MebelCourseWPF\MebelCourseWPF\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+D:\MebelCourseWPF\MebelCourseWPF\bin\Debug\Microsoft.Extensions.Configuration.dll
+D:\MebelCourseWPF\MebelCourseWPF\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\MebelCourseWPF\MebelCourseWPF\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+D:\MebelCourseWPF\MebelCourseWPF\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\MebelCourseWPF\MebelCourseWPF\bin\Debug\Microsoft.Extensions.Logging.dll
+D:\MebelCourseWPF\MebelCourseWPF\bin\Debug\Microsoft.Extensions.Options.dll
+D:\MebelCourseWPF\MebelCourseWPF\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\MebelCourseWPF\MebelCourseWPF\bin\Debug\Microsoft.Identity.Client.dll
+D:\MebelCourseWPF\MebelCourseWPF\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\MebelCourseWPF\MebelCourseWPF\bin\Debug\Microsoft.IdentityModel.Logging.dll
+D:\MebelCourseWPF\MebelCourseWPF\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+D:\MebelCourseWPF\MebelCourseWPF\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\MebelCourseWPF\MebelCourseWPF\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+D:\MebelCourseWPF\MebelCourseWPF\bin\Debug\Newtonsoft.Json.dll
+D:\MebelCourseWPF\MebelCourseWPF\bin\Debug\System.Buffers.dll
+D:\MebelCourseWPF\MebelCourseWPF\bin\Debug\System.Collections.Immutable.dll
+D:\MebelCourseWPF\MebelCourseWPF\bin\Debug\System.ComponentModel.Annotations.dll
+D:\MebelCourseWPF\MebelCourseWPF\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\MebelCourseWPF\MebelCourseWPF\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+D:\MebelCourseWPF\MebelCourseWPF\bin\Debug\System.Memory.dll
+D:\MebelCourseWPF\MebelCourseWPF\bin\Debug\System.Numerics.Vectors.dll
+D:\MebelCourseWPF\MebelCourseWPF\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\MebelCourseWPF\MebelCourseWPF\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\MebelCourseWPF\MebelCourseWPF\bin\Debug\Aspose.Words.xml
+D:\MebelCourseWPF\MebelCourseWPF\bin\Debug\EntityFramework.xml
+D:\MebelCourseWPF\MebelCourseWPF\bin\Debug\EntityFramework.SqlServer.xml
+D:\MebelCourseWPF\MebelCourseWPF\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\MebelCourseWPF\MebelCourseWPF\bin\Debug\Microsoft.Bcl.HashCode.xml
+D:\MebelCourseWPF\MebelCourseWPF\bin\Debug\Microsoft.Data.SqlClient.pdb
+D:\MebelCourseWPF\MebelCourseWPF\bin\Debug\Microsoft.Data.SqlClient.xml
+D:\MebelCourseWPF\MebelCourseWPF\bin\Debug\Microsoft.EntityFrameworkCore.xml
+D:\MebelCourseWPF\MebelCourseWPF\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+D:\MebelCourseWPF\MebelCourseWPF\bin\Debug\Microsoft.EntityFrameworkCore.Design.xml
+D:\MebelCourseWPF\MebelCourseWPF\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+D:\MebelCourseWPF\MebelCourseWPF\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.xml
+D:\MebelCourseWPF\MebelCourseWPF\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+D:\MebelCourseWPF\MebelCourseWPF\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+D:\MebelCourseWPF\MebelCourseWPF\bin\Debug\Microsoft.Extensions.Configuration.xml
+D:\MebelCourseWPF\MebelCourseWPF\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\MebelCourseWPF\MebelCourseWPF\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+D:\MebelCourseWPF\MebelCourseWPF\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+D:\MebelCourseWPF\MebelCourseWPF\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\MebelCourseWPF\MebelCourseWPF\bin\Debug\Microsoft.Extensions.Logging.xml
+D:\MebelCourseWPF\MebelCourseWPF\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\MebelCourseWPF\MebelCourseWPF\bin\Debug\Microsoft.Extensions.Options.xml
+D:\MebelCourseWPF\MebelCourseWPF\bin\Debug\Microsoft.Extensions.Primitives.xml
+D:\MebelCourseWPF\MebelCourseWPF\bin\Debug\Microsoft.Identity.Client.xml
+D:\MebelCourseWPF\MebelCourseWPF\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+D:\MebelCourseWPF\MebelCourseWPF\bin\Debug\Microsoft.IdentityModel.Logging.xml
+D:\MebelCourseWPF\MebelCourseWPF\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+D:\MebelCourseWPF\MebelCourseWPF\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+D:\MebelCourseWPF\MebelCourseWPF\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+D:\MebelCourseWPF\MebelCourseWPF\bin\Debug\Newtonsoft.Json.xml
+D:\MebelCourseWPF\MebelCourseWPF\bin\Debug\System.Buffers.xml
+D:\MebelCourseWPF\MebelCourseWPF\bin\Debug\System.Collections.Immutable.xml
+D:\MebelCourseWPF\MebelCourseWPF\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\MebelCourseWPF\MebelCourseWPF\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+D:\MebelCourseWPF\MebelCourseWPF\bin\Debug\System.Memory.xml
+D:\MebelCourseWPF\MebelCourseWPF\bin\Debug\System.Numerics.Vectors.xml
+D:\MebelCourseWPF\MebelCourseWPF\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\MebelCourseWPF\MebelCourseWPF\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\MebelCourseWPF\MebelCourseWPF\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+D:\MebelCourseWPF\MebelCourseWPF\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+D:\MebelCourseWPF\MebelCourseWPF\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+D:\MebelCourseWPF\MebelCourseWPF\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+D:\MebelCourseWPF\MebelCourseWPF\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+D:\MebelCourseWPF\MebelCourseWPF\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+D:\MebelCourseWPF\MebelCourseWPF\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\MebelCourseWPF\MebelCourseWPF\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+D:\MebelCourseWPF\MebelCourseWPF\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\MebelCourseWPF\MebelCourseWPF\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\MebelCourseWPF\MebelCourseWPF\obj\Debug\MebelCourseWPF.csproj.AssemblyReference.cache
+D:\MebelCourseWPF\MebelCourseWPF\obj\Debug\CreateWindow.g.cs
+D:\MebelCourseWPF\MebelCourseWPF\obj\Debug\DocumentWindow.g.cs
+D:\MebelCourseWPF\MebelCourseWPF\obj\Debug\ListWindow.g.cs
+D:\MebelCourseWPF\MebelCourseWPF\obj\Debug\MainWindow.g.cs
+D:\MebelCourseWPF\MebelCourseWPF\obj\Debug\App.g.cs
+D:\MebelCourseWPF\MebelCourseWPF\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\MebelCourseWPF\MebelCourseWPF\obj\Debug\MebelCourseWPF_MarkupCompile.cache
+D:\MebelCourseWPF\MebelCourseWPF\obj\Debug\MebelCourseWPF_MarkupCompile.lref
+D:\MebelCourseWPF\MebelCourseWPF\obj\Debug\CreateWindow.baml
+D:\MebelCourseWPF\MebelCourseWPF\obj\Debug\DocumentWindow.baml
+D:\MebelCourseWPF\MebelCourseWPF\obj\Debug\ListWindow.baml
+D:\MebelCourseWPF\MebelCourseWPF\obj\Debug\MainWindow.baml
+D:\MebelCourseWPF\MebelCourseWPF\obj\Debug\MebelCourseWPF.g.resources
+D:\MebelCourseWPF\MebelCourseWPF\obj\Debug\MebelCourseWPF.Properties.Resources.resources
+D:\MebelCourseWPF\MebelCourseWPF\obj\Debug\MebelCourseWPF.csproj.GenerateResource.cache
+D:\MebelCourseWPF\MebelCourseWPF\obj\Debug\MebelCourseWPF.csproj.CoreCompileInputs.cache
+D:\MebelCourseWPF\MebelCourseWPF\obj\Debug\MebelCourseWPF.csproj.CopyComplete
+D:\MebelCourseWPF\MebelCourseWPF\obj\Debug\MebelCourseWPF.exe
+D:\MebelCourseWPF\MebelCourseWPF\obj\Debug\MebelCourseWPF.pdb
+C:\Users\Galina\OneDrive\Рабочий стол\курс3\MebelCourseWPF\MebelCourseWPF\bin\Debug\MebelCourseWPF.exe.config
+C:\Users\Galina\OneDrive\Рабочий стол\курс3\MebelCourseWPF\MebelCourseWPF\bin\Debug\MebelCourseWPF.exe
+C:\Users\Galina\OneDrive\Рабочий стол\курс3\MebelCourseWPF\MebelCourseWPF\bin\Debug\MebelCourseWPF.pdb
+C:\Users\Galina\OneDrive\Рабочий стол\курс3\MebelCourseWPF\MebelCourseWPF\bin\Debug\Aspose.Words.dll
+C:\Users\Galina\OneDrive\Рабочий стол\курс3\MebelCourseWPF\MebelCourseWPF\bin\Debug\Aspose.Words.Pdf2Word.dll
+C:\Users\Galina\OneDrive\Рабочий стол\курс3\MebelCourseWPF\MebelCourseWPF\bin\Debug\EntityFramework.dll
+C:\Users\Galina\OneDrive\Рабочий стол\курс3\MebelCourseWPF\MebelCourseWPF\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Galina\OneDrive\Рабочий стол\курс3\MebelCourseWPF\MebelCourseWPF\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Galina\OneDrive\Рабочий стол\курс3\MebelCourseWPF\MebelCourseWPF\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\Galina\OneDrive\Рабочий стол\курс3\MebelCourseWPF\MebelCourseWPF\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\Users\Galina\OneDrive\Рабочий стол\курс3\MebelCourseWPF\MebelCourseWPF\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Galina\OneDrive\Рабочий стол\курс3\MebelCourseWPF\MebelCourseWPF\bin\Debug\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Galina\OneDrive\Рабочий стол\курс3\MebelCourseWPF\MebelCourseWPF\bin\Debug\Microsoft.EntityFrameworkCore.dll
+C:\Users\Galina\OneDrive\Рабочий стол\курс3\MebelCourseWPF\MebelCourseWPF\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Galina\OneDrive\Рабочий стол\курс3\MebelCourseWPF\MebelCourseWPF\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Galina\OneDrive\Рабочий стол\курс3\MebelCourseWPF\MebelCourseWPF\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Galina\OneDrive\Рабочий стол\курс3\MebelCourseWPF\MebelCourseWPF\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Galina\OneDrive\Рабочий стол\курс3\MebelCourseWPF\MebelCourseWPF\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Galina\OneDrive\Рабочий стол\курс3\MebelCourseWPF\MebelCourseWPF\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Galina\OneDrive\Рабочий стол\курс3\MebelCourseWPF\MebelCourseWPF\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\Galina\OneDrive\Рабочий стол\курс3\MebelCourseWPF\MebelCourseWPF\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Galina\OneDrive\Рабочий стол\курс3\MebelCourseWPF\MebelCourseWPF\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Galina\OneDrive\Рабочий стол\курс3\MebelCourseWPF\MebelCourseWPF\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Galina\OneDrive\Рабочий стол\курс3\MebelCourseWPF\MebelCourseWPF\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\Galina\OneDrive\Рабочий стол\курс3\MebelCourseWPF\MebelCourseWPF\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\Galina\OneDrive\Рабочий стол\курс3\MebelCourseWPF\MebelCourseWPF\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\Galina\OneDrive\Рабочий стол\курс3\MebelCourseWPF\MebelCourseWPF\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\Galina\OneDrive\Рабочий стол\курс3\MebelCourseWPF\MebelCourseWPF\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Galina\OneDrive\Рабочий стол\курс3\MebelCourseWPF\MebelCourseWPF\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\Galina\OneDrive\Рабочий стол\курс3\MebelCourseWPF\MebelCourseWPF\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Galina\OneDrive\Рабочий стол\курс3\MebelCourseWPF\MebelCourseWPF\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Galina\OneDrive\Рабочий стол\курс3\MebelCourseWPF\MebelCourseWPF\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Galina\OneDrive\Рабочий стол\курс3\MebelCourseWPF\MebelCourseWPF\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Galina\OneDrive\Рабочий стол\курс3\MebelCourseWPF\MebelCourseWPF\bin\Debug\System.Buffers.dll
+C:\Users\Galina\OneDrive\Рабочий стол\курс3\MebelCourseWPF\MebelCourseWPF\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Galina\OneDrive\Рабочий стол\курс3\MebelCourseWPF\MebelCourseWPF\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\Galina\OneDrive\Рабочий стол\курс3\MebelCourseWPF\MebelCourseWPF\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Galina\OneDrive\Рабочий стол\курс3\MebelCourseWPF\MebelCourseWPF\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Galina\OneDrive\Рабочий стол\курс3\MebelCourseWPF\MebelCourseWPF\bin\Debug\System.Memory.dll
+C:\Users\Galina\OneDrive\Рабочий стол\курс3\MebelCourseWPF\MebelCourseWPF\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Galina\OneDrive\Рабочий стол\курс3\MebelCourseWPF\MebelCourseWPF\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Galina\OneDrive\Рабочий стол\курс3\MebelCourseWPF\MebelCourseWPF\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Galina\OneDrive\Рабочий стол\курс3\MebelCourseWPF\MebelCourseWPF\bin\Debug\Aspose.Words.xml
+C:\Users\Galina\OneDrive\Рабочий стол\курс3\MebelCourseWPF\MebelCourseWPF\bin\Debug\EntityFramework.xml
+C:\Users\Galina\OneDrive\Рабочий стол\курс3\MebelCourseWPF\MebelCourseWPF\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Galina\OneDrive\Рабочий стол\курс3\MebelCourseWPF\MebelCourseWPF\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Galina\OneDrive\Рабочий стол\курс3\MebelCourseWPF\MebelCourseWPF\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\Galina\OneDrive\Рабочий стол\курс3\MebelCourseWPF\MebelCourseWPF\bin\Debug\Microsoft.Data.SqlClient.pdb
+C:\Users\Galina\OneDrive\Рабочий стол\курс3\MebelCourseWPF\MebelCourseWPF\bin\Debug\Microsoft.Data.SqlClient.xml
+C:\Users\Galina\OneDrive\Рабочий стол\курс3\MebelCourseWPF\MebelCourseWPF\bin\Debug\Microsoft.EntityFrameworkCore.xml
+C:\Users\Galina\OneDrive\Рабочий стол\курс3\MebelCourseWPF\MebelCourseWPF\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\Galina\OneDrive\Рабочий стол\курс3\MebelCourseWPF\MebelCourseWPF\bin\Debug\Microsoft.EntityFrameworkCore.Design.xml
+C:\Users\Galina\OneDrive\Рабочий стол\курс3\MebelCourseWPF\MebelCourseWPF\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+C:\Users\Galina\OneDrive\Рабочий стол\курс3\MebelCourseWPF\MebelCourseWPF\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.xml
+C:\Users\Galina\OneDrive\Рабочий стол\курс3\MebelCourseWPF\MebelCourseWPF\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\Galina\OneDrive\Рабочий стол\курс3\MebelCourseWPF\MebelCourseWPF\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\Galina\OneDrive\Рабочий стол\курс3\MebelCourseWPF\MebelCourseWPF\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\Galina\OneDrive\Рабочий стол\курс3\MebelCourseWPF\MebelCourseWPF\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\Galina\OneDrive\Рабочий стол\курс3\MebelCourseWPF\MebelCourseWPF\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\Galina\OneDrive\Рабочий стол\курс3\MebelCourseWPF\MebelCourseWPF\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Galina\OneDrive\Рабочий стол\курс3\MebelCourseWPF\MebelCourseWPF\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Galina\OneDrive\Рабочий стол\курс3\MebelCourseWPF\MebelCourseWPF\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\Galina\OneDrive\Рабочий стол\курс3\MebelCourseWPF\MebelCourseWPF\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Galina\OneDrive\Рабочий стол\курс3\MebelCourseWPF\MebelCourseWPF\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\Galina\OneDrive\Рабочий стол\курс3\MebelCourseWPF\MebelCourseWPF\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\Galina\OneDrive\Рабочий стол\курс3\MebelCourseWPF\MebelCourseWPF\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\Galina\OneDrive\Рабочий стол\курс3\MebelCourseWPF\MebelCourseWPF\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\Galina\OneDrive\Рабочий стол\курс3\MebelCourseWPF\MebelCourseWPF\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\Galina\OneDrive\Рабочий стол\курс3\MebelCourseWPF\MebelCourseWPF\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\Users\Galina\OneDrive\Рабочий стол\курс3\MebelCourseWPF\MebelCourseWPF\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\Galina\OneDrive\Рабочий стол\курс3\MebelCourseWPF\MebelCourseWPF\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\Galina\OneDrive\Рабочий стол\курс3\MebelCourseWPF\MebelCourseWPF\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Galina\OneDrive\Рабочий стол\курс3\MebelCourseWPF\MebelCourseWPF\bin\Debug\System.Buffers.xml
+C:\Users\Galina\OneDrive\Рабочий стол\курс3\MebelCourseWPF\MebelCourseWPF\bin\Debug\System.Collections.Immutable.xml
+C:\Users\Galina\OneDrive\Рабочий стол\курс3\MebelCourseWPF\MebelCourseWPF\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Galina\OneDrive\Рабочий стол\курс3\MebelCourseWPF\MebelCourseWPF\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\Galina\OneDrive\Рабочий стол\курс3\MebelCourseWPF\MebelCourseWPF\bin\Debug\System.Memory.xml
+C:\Users\Galina\OneDrive\Рабочий стол\курс3\MebelCourseWPF\MebelCourseWPF\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Galina\OneDrive\Рабочий стол\курс3\MebelCourseWPF\MebelCourseWPF\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Galina\OneDrive\Рабочий стол\курс3\MebelCourseWPF\MebelCourseWPF\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Galina\OneDrive\Рабочий стол\курс3\MebelCourseWPF\MebelCourseWPF\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Galina\OneDrive\Рабочий стол\курс3\MebelCourseWPF\MebelCourseWPF\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Galina\OneDrive\Рабочий стол\курс3\MebelCourseWPF\MebelCourseWPF\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Galina\OneDrive\Рабочий стол\курс3\MebelCourseWPF\MebelCourseWPF\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Galina\OneDrive\Рабочий стол\курс3\MebelCourseWPF\MebelCourseWPF\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Galina\OneDrive\Рабочий стол\курс3\MebelCourseWPF\MebelCourseWPF\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Galina\OneDrive\Рабочий стол\курс3\MebelCourseWPF\MebelCourseWPF\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Galina\OneDrive\Рабочий стол\курс3\MebelCourseWPF\MebelCourseWPF\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Galina\OneDrive\Рабочий стол\курс3\MebelCourseWPF\MebelCourseWPF\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Galina\OneDrive\Рабочий стол\курс3\MebelCourseWPF\MebelCourseWPF\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Galina\OneDrive\Рабочий стол\курс3\MebelCourseWPF\MebelCourseWPF\obj\Debug\MebelCourseWPF.csproj.AssemblyReference.cache
+C:\Users\Galina\OneDrive\Рабочий стол\курс3\MebelCourseWPF\MebelCourseWPF\obj\Debug\CreateWindow.g.cs
+C:\Users\Galina\OneDrive\Рабочий стол\курс3\MebelCourseWPF\MebelCourseWPF\obj\Debug\DocumentWindow.g.cs
+C:\Users\Galina\OneDrive\Рабочий стол\курс3\MebelCourseWPF\MebelCourseWPF\obj\Debug\ListWindow.g.cs
+C:\Users\Galina\OneDrive\Рабочий стол\курс3\MebelCourseWPF\MebelCourseWPF\obj\Debug\MainWindow.g.cs
+C:\Users\Galina\OneDrive\Рабочий стол\курс3\MebelCourseWPF\MebelCourseWPF\obj\Debug\App.g.cs
+C:\Users\Galina\OneDrive\Рабочий стол\курс3\MebelCourseWPF\MebelCourseWPF\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Galina\OneDrive\Рабочий стол\курс3\MebelCourseWPF\MebelCourseWPF\obj\Debug\MebelCourseWPF_MarkupCompile.cache
+C:\Users\Galina\OneDrive\Рабочий стол\курс3\MebelCourseWPF\MebelCourseWPF\obj\Debug\MebelCourseWPF_MarkupCompile.lref
+C:\Users\Galina\OneDrive\Рабочий стол\курс3\MebelCourseWPF\MebelCourseWPF\obj\Debug\CreateWindow.baml
+C:\Users\Galina\OneDrive\Рабочий стол\курс3\MebelCourseWPF\MebelCourseWPF\obj\Debug\DocumentWindow.baml
+C:\Users\Galina\OneDrive\Рабочий стол\курс3\MebelCourseWPF\MebelCourseWPF\obj\Debug\ListWindow.baml
+C:\Users\Galina\OneDrive\Рабочий стол\курс3\MebelCourseWPF\MebelCourseWPF\obj\Debug\MainWindow.baml
+C:\Users\Galina\OneDrive\Рабочий стол\курс3\MebelCourseWPF\MebelCourseWPF\obj\Debug\MebelCourseWPF.g.resources
+C:\Users\Galina\OneDrive\Рабочий стол\курс3\MebelCourseWPF\MebelCourseWPF\obj\Debug\MebelCourseWPF.Properties.Resources.resources
+C:\Users\Galina\OneDrive\Рабочий стол\курс3\MebelCourseWPF\MebelCourseWPF\obj\Debug\MebelCourseWPF.csproj.GenerateResource.cache
+C:\Users\Galina\OneDrive\Рабочий стол\курс3\MebelCourseWPF\MebelCourseWPF\obj\Debug\MebelCourseWPF.csproj.CoreCompileInputs.cache
+C:\Users\Galina\OneDrive\Рабочий стол\курс3\MebelCourseWPF\MebelCourseWPF\obj\Debug\MebelCourseWPF.csproj.CopyComplete
+C:\Users\Galina\OneDrive\Рабочий стол\курс3\MebelCourseWPF\MebelCourseWPF\obj\Debug\MebelCourseWPF.exe
+C:\Users\Galina\OneDrive\Рабочий стол\курс3\MebelCourseWPF\MebelCourseWPF\obj\Debug\MebelCourseWPF.pdb

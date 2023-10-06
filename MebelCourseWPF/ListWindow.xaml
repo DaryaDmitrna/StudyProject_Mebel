@@ -1,0 +1,92 @@
+﻿<Window x:Class="MebelCourseWPF.ListWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:MebelCourseWPF"
+        xmlns:converters="clr-namespace:MebelCourseWPF.Converters"
+        mc:Ignorable="d"
+        Title="ListWindow" Height="620" Width="1000" Closed="Close">
+
+    <Window.Background>
+        <ImageBrush ImageSource="Images/tree_back.jpg"></ImageBrush>
+    </Window.Background>
+
+    <Window.Resources>
+        <converters:PeriodConverter x:Key="PeriodConverter"/>
+        <Image x:Key="loading" Source="Images/loading.png"/>
+        <Image x:Key="lupa" Source="Images/lupa.png"/>
+        <Image x:Key="strelaLeft" Source="Images/strelaLeft.png"/>
+        <Image x:Key="strelaRight" Source="Images/strelaRight.png"/>
+    </Window.Resources>
+    
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition Width="200"></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        <StackPanel Orientation ="Vertical">
+            <StackPanel Orientation="Horizontal">
+                <Button Content="{StaticResource loading}" Height="30" Width="30" Margin="40 30 40 20" Click="Update" Background="#83D350" BorderBrush="#513C2F"/>
+                <Button Content="{StaticResource lupa}" Height="30" Width="30" Click="Search" Background="#83D350" BorderBrush="#513C2F" Margin="0 10 0 0"/>
+                <TextBox x:Name="searchString" Height="20" Width="100" Margin="20 30 10 10" Background="#FDD48A" Foreground="#513C2F" FontSize="15"></TextBox>
+                <StackPanel Margin="10 0 30 0">
+                    <Label Height="30" HorizontalAlignment="Center" FontSize="16" FontWeight="Bold" Margin="0 5 0 5" Foreground="#513C2F">Параметр:</Label>
+                    <ComboBox x:Name="searchBox" Height="20" Width="100" Background="#83D350" FontSize="12">
+                        
+                        <ComboBoxItem>Номер</ComboBoxItem>
+                        <ComboBoxItem>Клиент</ComboBoxItem>
+                    </ComboBox>
+                </StackPanel>
+                <StackPanel Margin="10 0 30 0">
+                    <Label Height="30" HorizontalAlignment="Center" FontSize="16" FontWeight="Bold" Margin="0 5 0 5" Foreground="#513C2F">Статус:</Label>
+                    <ComboBox x:Name="statusBox" Height="20" Width="100" SelectionChanged="StatusSort" FontSize="12"> 
+                       
+                        <ComboBoxItem>активные</ComboBoxItem>
+                        <ComboBoxItem>новые</ComboBoxItem>
+                        <ComboBoxItem>на распилке</ComboBoxItem>
+                        <ComboBoxItem>на сборке</ComboBoxItem>
+                        <ComboBoxItem>готовые</ComboBoxItem>
+                        <ComboBoxItem>отправленные</ComboBoxItem>
+                        <ComboBoxItem>завершённые</ComboBoxItem>
+                        <ComboBoxItem>все</ComboBoxItem>
+                    </ComboBox>
+                </StackPanel>
+
+                <StackPanel Margin="10 0 10 0">
+                    <Label FontSize="16" FontWeight="Bold" Margin="0 5 0 0" Foreground="#513C2F">Страница</Label>
+                    <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
+                        <Button Content="{StaticResource strelaLeft}" Width="20" Height="20" Click="Back" Background="#83D350" BorderBrush="#513C2F"></Button>
+                        <Label x:Name="pageLab" Foreground="#513C2F">1</Label>
+                        <Button Content="{StaticResource strelaRight}" Width="20" Height="20" Click="Front" Background="#83D350" BorderBrush="#513C2F"></Button>
+                    </StackPanel>
+                </StackPanel>
+
+            </StackPanel>
+            <DataGrid x:Name="grid" Height="470" Width="720" ItemsSource="{Binding}" AutoGenerateColumns="False" SelectionMode="Single" RowHeight="30" Background="#FDD48A" Foreground="#513C2F" BorderBrush="#513C2F" FontSize="14">
+               
+                <DataGrid.Columns>
+                    <DataGridTextColumn Header="Номер" Binding="{Binding Path=Number}"/>
+                    <DataGridTextColumn Header="Клиент" Binding="{Binding Path=Client}"/>
+                    <DataGridTextColumn Header="Принят" Binding="{Binding Path=Accept, StringFormat='dd/MM/yyyy'}"/>
+                    <DataGridTemplateColumn Header="Выполнен">
+                        <DataGridTemplateColumn.CellTemplate>
+                            <DataTemplate>
+                                <Label Content="{Binding Path=Execute, StringFormat='dd/MM/yyyy'}" Background="{Binding Path=Accept, Converter={StaticResource PeriodConverter}}"/>
+                            </DataTemplate>
+                        </DataGridTemplateColumn.CellTemplate>
+                    </DataGridTemplateColumn>
+                    <DataGridTextColumn Header="Доставка" Binding="{Binding Path=Deliver, StringFormat='dd/MM/yyyy'}"/>
+                    <DataGridTextColumn Header="Предоплата" Binding="{Binding Path=Prepayment}"/>
+                    <DataGridTextColumn Header="Сумма" Binding="{Binding Path=Sum}"/>
+                    <DataGridTextColumn Header="Статус" Binding="{Binding Path=Status}"/>
+                </DataGrid.Columns>
+            </DataGrid>
+        </StackPanel>
+        <StackPanel Grid.Column="1" Orientation="Vertical">
+            <Button Height="70" Margin="20" FontSize="22" FontWeight="Bold" Click="Add" Background="#83D350" Foreground="#513C2F" BorderBrush="#513C2F">Добавить</Button>
+            <Button Height="70" Margin="20" FontSize="22" FontWeight="Bold" Click="Change" Background="#83D350" Foreground="#513C2F" BorderBrush="#513C2F">Изменить</Button>
+            <Button Height="70" Margin="20" FontSize="22" FontWeight="Bold" Click="PrintDoc" Background="#83D350" Foreground="#513C2F" BorderBrush="#513C2F">Документы</Button>
+        </StackPanel>
+    </Grid>
+</Window>
